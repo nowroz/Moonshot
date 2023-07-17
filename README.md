@@ -4,7 +4,9 @@
 
 *Please wait for the demo GIF to load*
 
-![demo](GIF/demo.gif)
+<p align="center">
+  <img src="GIF/demo.gif" width="200">
+</p>
 
 ## LICENSE
 
